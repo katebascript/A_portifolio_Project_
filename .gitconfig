@@ -1,0 +1,6 @@
+[core]
+	editor = \"C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = KATEBASCRIPT
+[init]
+	DefaultBranch = main
