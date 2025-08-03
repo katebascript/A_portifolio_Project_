@@ -23,7 +23,7 @@ It is designed to showcase your work, skills, and provide contact information, a
 
 1. **Download or Clone the Repository:**
     ```bash
-    https://github.com/katebascript/Portifolio_kateba_Project.git
+    https://github.com/katebascript/HP.git
     ```
     Or simply download the ZIP and extract it.
 
